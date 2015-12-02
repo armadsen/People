@@ -1,0 +1,1 @@
+This is a super quick and dirty demo app used for a lightning talk on custom URL schemes at CocoaHeads SLC on December 1, 2015. I spent about 20 minutes writing this, so it should not be taken as an example of my best work ;).
